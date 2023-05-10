@@ -38,4 +38,4 @@ Learn Java programming basics such as variables, classes, objects, loops, arrays
 
 ## Instructor
 
-Joe Greenwald - Senior Principal Instructor and Learning Solution, Oracle University
+[Joe Greenwald](https://www.linkedin.com/in/joe-greenwald-8626111/)
