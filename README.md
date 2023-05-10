@@ -35,3 +35,7 @@ Learn Java programming basics such as variables, classes, objects, loops, arrays
 - [ ] [Section L - Oracle Cloud and Beyond](SectionL)
 - [ ] [Section M - Case Study](SectionM)
 - [ ] [Section N - Continue Your Learning as a Java Programmer](SectionN)
+
+## Instructor
+
+Joe Greenwald - Senior Principal Instructor and Learning Solution, Oracle University
