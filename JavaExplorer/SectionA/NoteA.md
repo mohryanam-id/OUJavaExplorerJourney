@@ -54,6 +54,6 @@ Mostly, we're seeing Java used in the enterprise, in what we call the back end o
 
 4. Java Programs are executed within a Java Virtual Machine (JVM)
 
-![JavaIsCrossPlatform](Images/JavaIsCrossPlatform.jpg)
+![JavaIsCrossPlatform](../../Images/JavaIsCrossPlatform.jpg)
 
 [Back to Top](#explain-java-origins-and-ecosystem)

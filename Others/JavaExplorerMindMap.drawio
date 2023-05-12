@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" modified="2023-05-12T00:00:42.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RsdQM1sQJFoTvsauwumR" version="21.2.9" type="device">
+  <diagram name="Page-1" id="a3LiIxasAp8T3YTFMmtY">
+    <mxGraphModel dx="2072" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontStyle=0;fontFamily=Tahoma;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-5" target="5lw7cRVPhoy2vIJu9UrJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-5" target="5lw7cRVPhoy2vIJu9UrJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-5" target="5lw7cRVPhoy2vIJu9UrJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-5" value="Java &lt;br style=&quot;font-size: 12px;&quot;&gt;Explorer" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#333300;strokeColor=#36393d;fontStyle=0;fontSize=12;fontFamily=Tahoma;fontColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fontFamily=Tahoma;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-7" target="5lw7cRVPhoy2vIJu9UrJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fontFamily=Tahoma;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-7" target="5lw7cRVPhoy2vIJu9UrJ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fontFamily=Tahoma;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-7" target="5lw7cRVPhoy2vIJu9UrJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-7" value="Java Fundamentals&lt;br style=&quot;font-size: 12px;&quot;&gt;and Programming Basic" style="labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;html=1;fontStyle=0;fontSize=12;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontStyle=0;fontColor=#666600;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-11" target="5lw7cRVPhoy2vIJu9UrJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontStyle=0;fontColor=#666600;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-11" target="5lw7cRVPhoy2vIJu9UrJ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontStyle=0;fontColor=#666600;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-11" target="5lw7cRVPhoy2vIJu9UrJ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-11" value="Object-Oriented Programming Concepts and Implementation" style="whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-13" target="5lw7cRVPhoy2vIJu9UrJ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-13" target="5lw7cRVPhoy2vIJu9UrJ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-13" target="5lw7cRVPhoy2vIJu9UrJ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-13" value="Advanced Topics and Applications" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fontFamily=Tahoma;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-15" target="5lw7cRVPhoy2vIJu9UrJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fontFamily=Tahoma;fillColor=#a20025;strokeColor=#6F0000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-15" target="5lw7cRVPhoy2vIJu9UrJ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-15" value="Java Basics and Program Structure" style="whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontStyle=0;fontSize=12;fontFamily=Tahoma;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-19" value="Handling Text and Number" style="whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontStyle=0;fontSize=12;fontFamily=Tahoma;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-21" value="Arrays, Condition, and Loops" style="whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontStyle=0;fontSize=12;fontFamily=Tahoma;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-23" value="Introduction to Java Basic" style="whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontSize=12;fontStyle=0;fontFamily=Tahoma;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-25" value="What is Java Program" style="whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontSize=12;fontStyle=0;fontFamily=Tahoma;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontStyle=0;fontColor=#666600;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-27" target="5lw7cRVPhoy2vIJu9UrJ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontStyle=0;fontColor=#666600;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-27" target="5lw7cRVPhoy2vIJu9UrJ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-27" value="Object-Oriented Programming Fundmentals" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=0;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-31" target="5lw7cRVPhoy2vIJu9UrJ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-31" target="5lw7cRVPhoy2vIJu9UrJ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-31" value="Object Manipulation and Code Reuse" style="whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fontFamily=Tahoma;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-33" value="Practical Object-Oriented Concepts: Part 1" style="whiteSpace=wrap;html=1;fontFamily=Tahoma;fontStyle=0;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-35" value="Practical Object-Oriented Concepts: Part 2" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-37" value="Working With Objects" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontStyle=0;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-39" value="Object-Oriented Approach to Code Reuse" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Tahoma;fontStyle=0;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="900" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-29" value="Defining Classes and Creating Objects" style="whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fontFamily=Tahoma;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-47" value="Handling Exceptions" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-49" target="5lw7cRVPhoy2vIJu9UrJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lw7cRVPhoy2vIJu9UrJ-49" target="5lw7cRVPhoy2vIJu9UrJ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-49" value="Advanced Topics and Applications" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-51" value="Continue Learning and Development" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-53" value="Case Study" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lw7cRVPhoy2vIJu9UrJ-55" value="Oracle Cloud and Beyond" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

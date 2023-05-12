@@ -7,30 +7,30 @@
 - A class represents a type of thing or a concept.
 - An object is an instance - a spesific example of a class.
 
-![ClassesAndObjects](Images/ClassesAndObjects.jpg)
+![ClassesAndObjects](../../Images/ClassesAndObjects.jpg)
 
 ## **Reusing Code Through Inheritance**
 
 - Reuse (inherit) attributes and behaviours across the class hierarchy.
 - Top-level classes contain generic code reused by their descendants.
 
-![ReusingCodeThroughInheritance](Images/ReusingCodeThroughInheritance.jpg)
+![ReusingCodeThroughInheritance](../../Images/ReusingCodeThroughInheritance.jpg)
 
 ## **Achieve Flexible Design**
 
-![AchieveFlexibleDesign](Images/AchieveFlexibleDesign.jpg)
+![AchieveFlexibleDesign](../../Images/AchieveFlexibleDesign.jpg)
 
 ### Interfaces
 
 Abstract out common behavior across classes.
 
-![Interfaces](Images/Interfaces.jpg)
+![Interfaces](../../Images/Interfaces.jpg)
 
 ### Enumerations
 
 For creating user-defined constants.
 
-![Enumerations](Images/Enumerations.jpg)
+![Enumerations](../../Images/Enumerations.jpg)
 
 ### Generic
 
@@ -44,7 +44,7 @@ Use unified Modelling Language (UML) to:
 - Model code strutures.
 - Decribe application deployment.
 
-![AnalysisDesignAndArchitecture](Images/AnalysisDesignAndArchitecture.jpg)
+![AnalysisDesignAndArchitecture](../../Images/AnalysisDesignAndArchitecture.jpg)
 
 ### Use case diagram
 
