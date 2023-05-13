@@ -36,6 +36,8 @@ employees.stream().parallel().filter(e->e.getSalary()>1000).forEach(e->e.calcula
 - Read information from various sources input direction.
 - Write information to various destinations output direction.
 
+Example:
+
 ```java
 Path file = Path.of("../employee.txt");
 Files.lines(readme, Charset.forname("UTF-8")).forEach(line->system.out.println(line));
@@ -45,6 +47,8 @@ Files.lines(readme, Charset.forname("UTF-8")).forEach(line->system.out.println(l
 
 - Takes advantage of multi-CPU-core architecture.
 - Executes code concurrently to achieve better performance and user experience.
+
+Example:
 
 ```java
 Callable<BigDecimal> taxCalculation = new Callable<>(){
