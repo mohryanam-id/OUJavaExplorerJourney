@@ -22,7 +22,7 @@ My Journey to Learn Java on Oracle University such as variables, classes, object
 
 ## Progress
 
-- [ ] [Section A - Overview.](JavaExplorer/SectionA)
+- [x] [Section A - Overview.](JavaExplorer/SectionA)
 - [ ] [Section B - Introduction to Java Basics.](JavaExplorer/SectionB)
 - [ ] [Section C - Practical Object-Oriented Concepts: Part 1.](JavaExplorer/SectionC)
 - [ ] [Section D - Practical Object-Oriented Concepts: Part 2.](JavaExplorer/SectionD)
