@@ -22,20 +22,20 @@ My Journey to Learn Java on Oracle University such as variables, classes, object
 
 ## Progress
 
-- [x] [Section A - Overview.](Notes/SectionA)
-- [ ] [Section B - Introduction to Java Basics.](Notes/SectionB)
-- [ ] [Section C - Practical Object-Oriented Concepts: Part 1.](Notes/SectionC)
-- [ ] [Section D - Practical Object-Oriented Concepts: Part 2.](Notes/SectionD)
-- [ ] [Section E - What is a Java Program.](Notes/SectionE)
-- [ ] [Section F - Handling Text and Numbers.](Notes/SectionF)
-- [ ] [Section G - Arrays, Conditions, and Loops.](Notes/SectionG)
-- [ ] [Section H - Defining Classes and Creating Objects.](Notes/SectionH)
-- [ ] [Section I - Working with Objects.](Notes/SectionI)
-- [ ] [Section J - Handling Exceptions.](Notes/SectionJ)
-- [ ] [Section K - Object-Oriented Approach to Code Reuse.](Notes/SectionK)
-- [ ] [Section L - Oracle Cloud and Beyond.](Notes/SectionL)
-- [ ] [Section M - Case Study.](Notes/SectionM)
-- [ ] [Section N - Continue Your Learning as a Java Programmer.](Notes/SectionN)
+- [x] [A - Overview.](Notes/A)
+- [ ] [B - Introduction to Java Basics.](Notes/B)
+- [ ] [C - Practical Object-Oriented Concepts: Part 1.](Notes/C)
+- [ ] [D - Practical Object-Oriented Concepts: Part 2.](Notes/D)
+- [ ] [E - What is a Java Program.](Notes/E)
+- [ ] [F - Handling Text and Numbers.](Notes/F)
+- [ ] [G - Arrays, Conditions, and Loops.](Notes/G)
+- [ ] [H - Defining Classes and Creating Objects.](Notes/H)
+- [ ] [I - Working with Objects.](Notes/I)
+- [ ] [J - Handling Exceptions.](Notes/J)
+- [ ] [K - Object-Oriented Approach to Code Reuse.](Notes/K)
+- [ ] [L - Oracle Cloud and Beyond.](Notes/L)
+- [ ] [M - Case Study.](Notes/M)
+- [ ] [N - Continue Your Learning as a Java Programmer.](Notes/N)
 
 ## Instructor
 
