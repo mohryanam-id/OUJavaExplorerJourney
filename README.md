@@ -22,20 +22,20 @@ My Journey to Learn Java on Oracle University such as variables, classes, object
 
 ## Progress
 
-- [x] [Section A - Overview.](JavaExplorer/SectionA)
-- [ ] [Section B - Introduction to Java Basics.](JavaExplorer/SectionB)
-- [ ] [Section C - Practical Object-Oriented Concepts: Part 1.](JavaExplorer/SectionC)
-- [ ] [Section D - Practical Object-Oriented Concepts: Part 2.](JavaExplorer/SectionD)
-- [ ] [Section E - What is a Java Program.](JavaExplorer/SectionE)
-- [ ] [Section F - Handling Text and Numbers.](JavaExplorer/SectionF)
-- [ ] [Section G - Arrays, Conditions, and Loops.](JavaExplorer/SectionG)
-- [ ] [Section H - Defining Classes and Creating Objects.](JavaExplorer/SectionH)
-- [ ] [Section I - Working with Objects.](JavaExplorer/SectionI)
-- [ ] [Section J - Handling Exceptions.](JavaExplorer/SectionJ)
-- [ ] [Section K - Object-Oriented Approach to Code Reuse.](JavaExplorer/SectionK)
-- [ ] [Section L - Oracle Cloud and Beyond.](JavaExplorer/SectionL)
-- [ ] [Section M - Case Study.](JavaExplorer/SectionM)
-- [ ] [Section N - Continue Your Learning as a Java Programmer.](JavaExplorer/SectionN)
+- [x] [Section A - Overview.](Notes/SectionA)
+- [ ] [Section B - Introduction to Java Basics.](Notes/SectionB)
+- [ ] [Section C - Practical Object-Oriented Concepts: Part 1.](Notes/SectionC)
+- [ ] [Section D - Practical Object-Oriented Concepts: Part 2.](Notes/SectionD)
+- [ ] [Section E - What is a Java Program.](Notes/SectionE)
+- [ ] [Section F - Handling Text and Numbers.](Notes/SectionF)
+- [ ] [Section G - Arrays, Conditions, and Loops.](Notes/SectionG)
+- [ ] [Section H - Defining Classes and Creating Objects.](Notes/SectionH)
+- [ ] [Section I - Working with Objects.](Notes/SectionI)
+- [ ] [Section J - Handling Exceptions.](Notes/SectionJ)
+- [ ] [Section K - Object-Oriented Approach to Code Reuse.](Notes/SectionK)
+- [ ] [Section L - Oracle Cloud and Beyond.](Notes/SectionL)
+- [ ] [Section M - Case Study.](Notes/SectionM)
+- [ ] [Section N - Continue Your Learning as a Java Programmer.](Notes/SectionN)
 
 ## Instructor
 
