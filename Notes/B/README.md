@@ -55,4 +55,4 @@ Your next course after this is **Java SE 11: Programming Complete.**
 
 - Get an overview of the computer environment used in the course.
   - [Provision Environment](Part1.md)
-  - [Provision Env Demo](Part2.md)
+  - [Provision Env Demo (Skipped due the registration issue)](Part2.md)
