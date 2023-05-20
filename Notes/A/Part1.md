@@ -1,6 +1,6 @@
 # Explain Java Origins and Ecosystem
 
-[Previous](README.md) | [Next](Part1.md)
+[Previous](README.md) | [Next](Part2.md)
 
 ## **Java Origin and Evolution**
 
