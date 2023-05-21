@@ -24,7 +24,7 @@ My Journey to Learn Java on Oracle University such as variables, classes, object
 
 - [x] [A - Overview.](Notes/A)
 - [ ] [B - Introduction to Java Basics.](Notes/B)
-- [ ] [C - Practical Object-Oriented Concepts: Part 1.](Notes/C)
+- [x] [C - Practical Object-Oriented Concepts: Part 1.](Notes/C)
 - [ ] [D - Practical Object-Oriented Concepts: Part 2.](Notes/D)
 - [ ] [E - What is a Java Program.](Notes/E)
 - [ ] [F - Handling Text and Numbers.](Notes/F)

@@ -6,4 +6,4 @@
 
 ## C - Practical Object-Oriented Concepts: Part 1
 
-[Alan's Kay Vision](AlanKayVision.jpg) | [How We Interact With Dogs](HowWeInteractWithDogs.jpg) | [Dog as an Object](DogAsAnObject.jpg) | [HowDogWorksWithObjects](HowDogWorksWithObjects.jpg)
+[Alan's Kay Vision](AlanKayVision.jpg) | [How We Interact With Dogs](HowWeInteractWithDogs.jpg) | [Dog as an Object](DogAsAnObject.jpg) | [HowDogWorksWithObjects](HowDogWorksWithObjects.jpg) | [ObjectOriented](ObjectOriented.jpg)] | [Abstarction](Abstraction.jpg) | [Encapsulation](Encapsulation.jpg) | [Inheritance](../../Images/Inheritance.jpg) | [Polymorphism](Polymorphism.jpg)

@@ -3,7 +3,7 @@
 ## Objectives
 
 - [Define an Object, Class, Attribute, Method, and Message.](Part1.md)
-- Explain What It Means to Create an Object-oriented Application.
+- [Explain What It Means to Create an Object-oriented Application.](Part2.md)
 
 ## Computing in the Late 1960-1970s
 
@@ -35,3 +35,16 @@ So messaging came at the very beginning.
 It took a while to see how to do messaging in a programming language efficiently enough to be useful."
 
 ![AlanKayVision](../../Images/AlanKayVision.jpg)
+
+## What is the Next?
+
+In part two, we look at the principles of object-orientation:
+
+- Abstraction
+  ![Abstarction](../../Images/Abstraction.jpg)
+- Encapsulation
+  ![Encapsulation](../../Images/Encapsulation.jpg)
+- Inheritance
+  ![Inheritance](../../Images/Inheritance.jpg)
+- Polymorphism
+  ![Polymorphism](../../Images/Polymorphism.jpg)
