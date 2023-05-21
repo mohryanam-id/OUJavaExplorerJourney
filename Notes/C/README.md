@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- Define an Object, Class, Attribute, Method, and Message.
+- [Define an Object, Class, Attribute, Method, and Message.](Part1.md)
 - Explain What It Means to Create an Object-oriented Application.
 
 ## Computing in the Late 1960-1970s
