@@ -1,11 +1,11 @@
 # D - Practical Object-Oriented Concepts: Part 2
 
-## Objectives
+## [Objectives](Part5.md)
 
 - [Define how abstraction identifies important aspects of the domain.](Part1.md)
-- Describe how inheritance supports code reuse.
+- [Describe how inheritance supports code reuse.](Part2.md)
 - [Define what encapsulation and data hiding mean to an OOP developer.](Part3.md)
-- Describe how polymorphism supports more flexible and reusable designs.
+- [Describe how polymorphism supports more flexible and reusable designs.](Part4.md)
 
 ## Object-Orientation Principles
 
